@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @TanmayaChaudhary
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<img src=https://nealanalytics.com/wp-content/uploads/2020/05/MLOps-cycle-v1.png style="margin: 25px 50px -120px 100px;">
+
+
+<!---
+TanmayaChaudhary/TanmayaChaudhary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
