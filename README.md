@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<img src=https://nealanalytics.com/wp-content/uploads/2020/05/MLOps-cycle-v1.png style="margin: 25px 50px -120px 100px;">
+<img src="MLOps_cycle.png" style="margin: 25px 50px -120px 100px;">
 
 
 <!---
