@@ -2,7 +2,7 @@
 
 ---
 
-<h1>Intro Card Holder Comming Soon.</h1>
+<h1>Intro Card Holder Coming Soon.</h1>
 
 A Data Scientist 🔭 with 1.5+years of experience executing data-driven solution to increase efficiency and accuracy. Well-versed & love with AI solution development using Python, SQL and ML tools. 
 More Focused on MLOps, Machine learning problems. Enjoying data story telling with insights, and giving solutions for Data Science complex business problems.
