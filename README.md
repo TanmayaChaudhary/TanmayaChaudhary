@@ -13,6 +13,7 @@ More Focused on MLOps, Machine learning problems. Enjoying data story telling wi
 - **✨Certifications:-** 😍Microsoft Azure Data Scientist, 🥳Microsoft Azure AI Engineer, 😍Microsoft Azure AI Fundamentals, 🤩Oracle OCI Foundation 2021 Associate. 
 - 🌱 I’m currently learning **Machine Learning Operations (MLOps) &** <img src="https://th.bing.com/th/id/OIP.qYDpn8128WXN_JCv_65zkAHaEK?pid=ImgDet&rs=1" width="40px" height="20px"> **Microsoft Azure Cloud Platform.**
 <img src="MLOps_cycle.png" width="500px" height="200px">
+
 - 💬 Ask me about MLOps, Cloud, ML related stuff.
 
 ![Profile views](https://gpvc.arturio.dev/TanmayaChaudhary)  <img src="https://img.shields.io/github/followers/TanmayaChaudhary?label=Follow" style=" float:left, margin-right:10px" />
