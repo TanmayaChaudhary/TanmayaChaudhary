@@ -36,8 +36,7 @@ More Focused on MLOps, Machine learning problems. Enjoying data story telling wi
 
 ---
 ### GitHub Statistics <img src= "https://media1.giphy.com/media/4K3l1JI3hRaguOsX3k/giphy.gif?cid=ecf05e47ci4ikrl6skvsw1v25tkp45ksklz2qp6620iuebma&rid=giphy.gif&ct=g" width="50px" height="50px">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TanmayaChaudhary&show_icons=true&theme=algolia) 
-![GitHub Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayaChaudhary&langs_count=9&layout=compact&theme=algolia)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TanmayaChaudhary&show_icons=true&theme=algolia) ![GitHub Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayaChaudhary&langs_count=9&layout=compact&theme=algolia)
 
 ---
 ### Find Me Online
