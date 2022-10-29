@@ -12,7 +12,7 @@ More Focused on MLOps, Machine learning problems. Enjoying data story telling wi
 - 👀 I’m interested in building Artificial Intelligence solutions which will help people to make their lives easy.
 - **✨Certifications:-** 😍Microsoft Azure Data Scientist, 🥳Microsoft Azure AI Engineer, 😍Microsoft Azure AI Fundamentals, 🤩Oracle OCI Foundation 2021 Associate. 
 - 🌱 I’m currently learning **Machine Learning Operations (MLOps) &** <img src="https://th.bing.com/th/id/OIP.qYDpn8128WXN_JCv_65zkAHaEK?pid=ImgDet&rs=1" width="40px" height="20px"> **Microsoft Azure Cloud Platform.**
-<img src="MLOps_cycle.png">
+<img src="MLOps_cycle.png" width="500px" height="200px">
 - 💬 Ask me about MLOps, Cloud, ML related stuff.
 
 ![Profile views](https://gpvc.arturio.dev/TanmayaChaudhary)  <img src="https://img.shields.io/github/followers/TanmayaChaudhary?label=Follow" style=" float:left, margin-right:10px" />
@@ -31,8 +31,7 @@ More Focused on MLOps, Machine learning problems. Enjoying data story telling wi
 <img src="http://img.shields.io/badge/-VS%20Code-white?style=flat&logo=visual%20studio%20code&logoColor=blue">  <img src="https://img.shields.io/badge/Jupyter-Notebook%2FLab-orange?style=flat&logo=Jupyter&logoColor=Orange"> <img src="https://img.shields.io/badge/Sublime-Text-orange?style=flat&logo=sublime%20text&logoColor=orange"> 
 
 ### Other Languages I know
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="25px" height="25px"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="25px" height="25px">
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="25px" height="25px"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="25px" height="25px">
 
 
 ---
